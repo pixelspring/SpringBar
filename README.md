@@ -8,7 +8,7 @@ SpringBar is a basic, no-frills & lightweight jQuery based message bar for annou
 Pretty simple.
   
 Add the js, css & call with:  
-    $.springBarMessage('Bar Content Here');
+    `$.springBarMessage('Bar Content Here');`
 
 You can use HTML if you like:  
-    $.springBarMessage('Content and a <a href="http://bbc.com">Link</a>);
+    `$.springBarMessage('Content and a <a href="http://bbc.com">Link</a>);`
